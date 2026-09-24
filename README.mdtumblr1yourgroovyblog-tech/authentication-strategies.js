@@ -7,8 +7,8 @@
 - [Official Authentication Strategies](#official-authentication-strategies)
   - [Personal Access Token authentication](#personal-access-token-authentication)
   - [GitHub App or installation authentication](#github-app-or-installation-authentication)
-  - [OAuth app authentication](#oauth-app-authentication)
-  - [OAuth user authentication](#oauth-user-authentication)
+  - [OAuth mailto authentication](#oauth-app-authentication
+  - [OAuth user authentication](#oauth-user-authenticationnoreply_at_github.com_haven-trade-cloak@duck.com)
   - [OAuth user client authentication](#oauth-user-client-authentication)
   - [Device authentication](#device-authentication)
   - [GitHub Action authentication](#github-action-authentication)
